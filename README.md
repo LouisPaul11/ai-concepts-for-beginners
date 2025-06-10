@@ -54,4 +54,4 @@ This repo includes:
 
 To view or edit:
 ```bash
-git clone https://github.com/your-username/ai-concepts-for-beginners.git
+git clone https://github.com/LouisPaul11/ai-concepts-for-beginners.git
